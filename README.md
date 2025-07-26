@@ -78,11 +78,12 @@ To secure a challenging position in the field of Cyber Security where I can appl
 <img src="https://img.shields.io/badge/-Gobuster-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Burp%20Suite-FF6600?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Metasploit-1A1A1A?&style=for-the-badge&logoColor=white" />
-
-
-
+<img src="https://img.shields.io/badge/-John%20the%20Ripper-8B0000?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Hydra-28A745?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Hashcat-1A1A1A?&style=for-the-badge&logoColor=white" />
 
 </div>
+
 ### Certifications
 <div>
 
