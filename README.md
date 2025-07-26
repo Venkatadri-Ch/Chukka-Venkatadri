@@ -102,11 +102,16 @@ To secure a challenging position in the field of Cyber Security where I can appl
 
 ## Projects
 <div>
-1. <a href="https://github.com/Venkatadri-Ch/IDS-SIEM-Integration-for-Intrusion-Detection">Integrating IDS (Snort) with real-time SIEM solution (Splunk)</a>
+1. <a href="https://github.com/Venkatadri-Ch/Active-Directory-security-with-SIEM-SOAR">Active Directory Security with SIEM SOAR</a>
+
 </div>
 
 <div>
-2. <a href="https://github.com/Venkatadri-Ch/Proactive-Threat-Detection-and-Automated-Response-Using-SOAR-and-EDR">Proactive Threat Detection and Automated Response Using SOAR and EDR</a>
+2. <a href="https://github.com/Venkatadri-Ch/IDS-SIEM-Integration-for-Intrusion-Detection">Integrating IDS (Snort) with real-time SIEM solution (Splunk)</a>
+</div>
+
+<div>
+3. <a href="https://github.com/Venkatadri-Ch/Proactive-Threat-Detection-and-Automated-Response-Using-SOAR-and-EDR">Proactive Threat Detection and Automated Response Using SOAR and EDR</a>
 
 </div>
 
