@@ -84,6 +84,13 @@ To secure a challenging position in the field of Cyber Security where I can appl
 
 </div>
 
+### Programming Languages
+<div>
+<img src="https://img.shields.io/badge/-Python-008080?&style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-SQL-003366?&style=for-the-badge&logoColor=white" />
+   
+</div>
+
 ### Certifications
 <div>
 
@@ -94,4 +101,6 @@ To secure a challenging position in the field of Cyber Security where I can appl
 </div>
 
 ## Projects
-- integrating IDS(Snort) with real-time SIEM solution(Splunk)https://github.com/Venkatadri-Ch/IDS-SIEM-Integration-for-Intrusion-Detection
+
+- <a href="https://github.com/Venkatadri-Ch/IDS-SIEM-Integration-for-Intrusion-Detection">Integrating IDS (Snort) with real-time SIEM solution (Splunk)</a>
+
