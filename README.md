@@ -40,12 +40,50 @@ To secure a challenging position in the field of Cyber Security where I can appl
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=elastic&logoColor=white" />
+
+</div>
+    
+### SOAR
+
+<div>
+<img src="https://img.shields.io/badge/-Shuffle-F76D1D?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Tines-0078D4?&style=for-the-badge&logoColor=white" />
+
 </div>
 
-## Certifications
+### Vulnerability Assessment
+<div>
+<img src="https://img.shields.io/badge/-Nessus-0078D4?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-OpenVAS-32A852?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Qualys-D32F2F?&style=for-the-badge&logoColor=white" />
+    
+</div>
+
+### Reconnaissance
+<div>
+<img src="https://img.shields.io/badge/-Shodan-FF0000?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Maltego-000000?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-TheHarvester-FF0000?&style=for-the-badge&logoColor=white" />
+   
+</div>
+
+### Offensive Security Tools
+<div>
+<img src="https://img.shields.io/badge/-Nmap-87CEEB?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nikto-6A0DAD?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Netcat-008080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Dirb-28A745?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Gobuster-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Burp%20Suite-FF6600?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Metasploit-1A1A1A?&style=for-the-badge&logoColor=white" />
+
+
+
+
+</div>
+### Certifications
 <div>
 
 <img src="https://img.shields.io/badge/-Penetration%20Testing-FF0000?&style=for-the-badge&logo=HackTheBox&logoColor=white" />
