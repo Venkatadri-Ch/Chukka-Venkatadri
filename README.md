@@ -24,7 +24,7 @@ To secure a challenging position in the field of Cyber Security where I can appl
 
 ## 🛠️ Tools
 
-### Network
+### Network 🌐
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
@@ -33,7 +33,7 @@ To secure a challenging position in the field of Cyber Security where I can appl
 
 </div>
 
-### Endpoint
+### Endpoint🖥️
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
@@ -41,14 +41,14 @@ To secure a challenging position in the field of Cyber Security where I can appl
 
 </div>
 
-### SIEM
+### SIEM📊
 <div>
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=elastic&logoColor=white" />
 
 </div>
     
-### SOAR
+### SOAR🤖
 
 <div>
 <img src="https://img.shields.io/badge/-Shuffle-F76D1D?&style=for-the-badge&logoColor=white" />
@@ -56,7 +56,7 @@ To secure a challenging position in the field of Cyber Security where I can appl
 
 </div>
 
-### Vulnerability Assessment
+### Vulnerability Assessment🛡️
 <div>
 <img src="https://img.shields.io/badge/-Nessus-0078D4?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-OpenVAS-32A852?&style=for-the-badge&logoColor=white" />
@@ -64,7 +64,7 @@ To secure a challenging position in the field of Cyber Security where I can appl
     
 </div>
 
-### Reconnaissance
+### Reconnaissance🔍
 <div>
 <img src="https://img.shields.io/badge/-Shodan-FF0000?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Maltego-000000?&style=for-the-badge&logoColor=white" />
@@ -72,7 +72,7 @@ To secure a challenging position in the field of Cyber Security where I can appl
    
 </div>
 
-### Offensive Security Tools
+### Offensive Security Tools💥💥
 <div>
 <img src="https://img.shields.io/badge/-Nmap-87CEEB?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Nikto-6A0DAD?&style=for-the-badge&logoColor=white" />
@@ -87,14 +87,14 @@ To secure a challenging position in the field of Cyber Security where I can appl
 
 </div>
 
-### Programming Languages
+### Programming Languages🐍⚡
 <div>
 <img src="https://img.shields.io/badge/-Python-008080?&style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-SQL-003366?&style=for-the-badge&logoColor=white" />
    
 </div>
 
-### Certifications
+### 📜Certifications🎓
 <div>
 
 <img src="https://img.shields.io/badge/-Penetration%20Testing-FF0000?&style=for-the-badge&logo=HackTheBox&logoColor=white" />
@@ -103,7 +103,7 @@ To secure a challenging position in the field of Cyber Security where I can appl
 
 </div>
 
-## Projects
+## Projects🚀
 <div>
 1. <a href="https://github.com/Venkatadri-Ch/Active-Directory-security-with-SIEM-SOAR">Active Directory Security with SIEM SOAR</a>
 
