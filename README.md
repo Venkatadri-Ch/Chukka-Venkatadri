@@ -1,28 +1,28 @@
-# Hello, I'm Venkatadri
+# 👋Hello, I'm Venkatadri
 <a href="https://www.linkedin.com/in/chukka-venkatadri-419803330/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Recent Postgraduate in Cyber Security (MSc) and undergraduated in forensic science(BSc) with practical experience in a wide range of security tools and technologies. Skilled in threat detection,threat intelligence,SIEM,EDR,Log analysis,digital forensics,python,vulnerability assessment. Strong understanding of cybersecurity principles, network security, cyber law and penetration testing. Eager to apply technical skills and analytical thinking in a professional cybersecurity environment.
 
 
-## Objective
-To secure a challenging position in the field of Cyber Security where I can apply my academic knowledge and hands-on experience with industry-standard tools to protect digital assets, detect threats, and contribute to a secure and resilient IT environment.
+## Objective 🚀
+To secure a challenging position in the field of Cyber Security where I can apply my academic knowledge and hands-on experience with industry-standard tools to protect digital assets, detect threats, and contribute to a secure and resilient IT environment.🔐💻
 
 
-## Skills
+## 💡Skills
 | Skill                                             | Associated Project                                                                                                                                                  |
 | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Active Directory Security & SIEM Integration      | <a href="https://github.com/Venkatadri-Ch/Active-Directory-security-with-SIEM-SOAR">Active Directory Security with SIEM & SOAR</a>                                  |
-| Intrusion Detection & SIEM Integration            | <a href="https://github.com/Venkatadri-Ch/IDS-SIEM-Integration-for-Intrusion-Detection">IDS (Snort) & SIEM (Splunk) Integration</a>                                 |
-| Security Automation & Incident Response           | <a href="https://github.com/Venkatadri-Ch/Proactive-Threat-Detection-and-Automated-Response-Using-SOAR-and-EDR">Proactive Threat Detection & Automated Response</a> |
-| SIEM & SOAR Configuration                         | <a href="https://github.com/Venkatadri-Ch/Active-Directory-security-with-SIEM-SOAR">Active Directory Security with SIEM & SOAR</a>                                  |
-| Endpoint Detection & Response (EDR)               | <a href="https://github.com/Venkatadri-Ch/Proactive-Threat-Detection-and-Automated-Response-Using-SOAR-and-EDR">Proactive Threat Detection & Automated Response</a> |
-| Log Management & Threat Monitoring                | <a href="https://github.com/Venkatadri-Ch/IDS-SIEM-Integration-for-Intrusion-Detection">IDS (Snort) & SIEM (Splunk) Integration</a>                                 |
-| **Log Analysis & Security Event Monitoring**      | <a href="https://github.com/Venkatadri-Ch/Active-Directory-security-with-SIEM-SOAR">Active Directory Security with SIEM & SOAR</a>                                  |
-| **Security Automation with Shuffle SOAR**         | <a href="https://github.com/Venkatadri-Ch/Active-Directory-security-with-SIEM-SOAR">Active Directory Security with SIEM & SOAR</a>                                  |
-| **Network Traffic Monitoring & Attack Detection** | <a href="https://github.com/Venkatadri-Ch/IDS-SIEM-Integration-for-Intrusion-Detection">IDS (Snort) & SIEM (Splunk) Integration</a>                                 |
+| 🔐Active Directory Security & SIEM Integration      | <a href="https://github.com/Venkatadri-Ch/Active-Directory-security-with-SIEM-SOAR">Active Directory Security with SIEM & SOAR</a>                                  |
+| 🛡️Intrusion Detection & SIEM Integration            | <a href="https://github.com/Venkatadri-Ch/IDS-SIEM-Integration-for-Intrusion-Detection">IDS (Snort) & SIEM (Splunk) Integration</a>                                 |
+| ⚙️Security Automation & Incident Response           | <a href="https://github.com/Venkatadri-Ch/Proactive-Threat-Detection-and-Automated-Response-Using-SOAR-and-EDR">Proactive Threat Detection & Automated Response</a> |
+| 🔧SIEM & SOAR Configuration                         | <a href="https://github.com/Venkatadri-Ch/Active-Directory-security-with-SIEM-SOAR">Active Directory Security with SIEM & SOAR</a>                                  |
+| 🖥️Endpoint Detection & Response (EDR)               | <a href="https://github.com/Venkatadri-Ch/Proactive-Threat-Detection-and-Automated-Response-Using-SOAR-and-EDR">Proactive Threat Detection & Automated Response</a> |
+| 📊Log Management & Threat Monitoring                | <a href="https://github.com/Venkatadri-Ch/IDS-SIEM-Integration-for-Intrusion-Detection">IDS (Snort) & SIEM (Splunk) Integration</a>                                 |
+| 📊Log Analysis & Security Event Monitoring      | <a href="https://github.com/Venkatadri-Ch/Active-Directory-security-with-SIEM-SOAR">Active Directory Security with SIEM & SOAR</a>                                  |
+| 📡Security Automation with Shuffle SOAR         | <a href="https://github.com/Venkatadri-Ch/Active-Directory-security-with-SIEM-SOAR">Active Directory Security with SIEM & SOAR</a>                                  |
+| 🌐Network Traffic Monitoring & Attack Detection | <a href="https://github.com/Venkatadri-Ch/IDS-SIEM-Integration-for-Intrusion-Detection">IDS (Snort) & SIEM (Splunk) Integration</a>                                 |
 
 
-## Tools
+## 🛠️ Tools
 
 ### Network
 <div>
