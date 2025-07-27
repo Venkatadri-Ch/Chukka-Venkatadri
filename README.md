@@ -17,7 +17,7 @@ To secure a challenging position in the field of Cyber Security where I can appl
 | 🔧SIEM & SOAR Configuration                         | <a href="https://github.com/Venkatadri-Ch/Active-Directory-security-with-SIEM-SOAR">Active Directory Security with SIEM & SOAR</a>                                  |
 | 🖥️Endpoint Detection & Response (EDR)               | <a href="https://github.com/Venkatadri-Ch/Proactive-Threat-Detection-and-Automated-Response-Using-SOAR-and-EDR">Proactive Threat Detection & Automated Response</a> |
 | 📊Log Management & Threat Monitoring                | <a href="https://github.com/Venkatadri-Ch/IDS-SIEM-Integration-for-Intrusion-Detection">IDS (Snort) & SIEM (Splunk) Integration</a>                                 |
-| 📊Log Analysis & Security Event Monitoring      | <a href="https://github.com/Venkatadri-Ch/Active-Directory-security-with-SIEM-SOAR">Active Directory Security with SIEM & SOAR</a>                                  |
+| 🕵️‍♂️Log Analysis & Security Event Monitoring      | <a href="https://github.com/Venkatadri-Ch/Active-Directory-security-with-SIEM-SOAR">Active Directory Security with SIEM & SOAR</a>                                  |
 | 📡Security Automation with Shuffle SOAR         | <a href="https://github.com/Venkatadri-Ch/Active-Directory-security-with-SIEM-SOAR">Active Directory Security with SIEM & SOAR</a>                                  |
 | 🌐Network Traffic Monitoring & Attack Detection | <a href="https://github.com/Venkatadri-Ch/IDS-SIEM-Integration-for-Intrusion-Detection">IDS (Snort) & SIEM (Splunk) Integration</a>                                 |
 
