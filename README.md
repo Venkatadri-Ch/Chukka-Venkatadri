@@ -9,15 +9,18 @@ To secure a challenging position in the field of Cyber Security where I can appl
 
 
 ## Skills
+| Skill                                             | Associated Project                                                                                                                                                  |
+| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Active Directory Security & SIEM Integration      | <a href="https://github.com/Venkatadri-Ch/Active-Directory-security-with-SIEM-SOAR">Active Directory Security with SIEM & SOAR</a>                                  |
+| Intrusion Detection & SIEM Integration            | <a href="https://github.com/Venkatadri-Ch/IDS-SIEM-Integration-for-Intrusion-Detection">IDS (Snort) & SIEM (Splunk) Integration</a>                                 |
+| Security Automation & Incident Response           | <a href="https://github.com/Venkatadri-Ch/Proactive-Threat-Detection-and-Automated-Response-Using-SOAR-and-EDR">Proactive Threat Detection & Automated Response</a> |
+| SIEM & SOAR Configuration                         | <a href="https://github.com/Venkatadri-Ch/Active-Directory-security-with-SIEM-SOAR">Active Directory Security with SIEM & SOAR</a>                                  |
+| Endpoint Detection & Response (EDR)               | <a href="https://github.com/Venkatadri-Ch/Proactive-Threat-Detection-and-Automated-Response-Using-SOAR-and-EDR">Proactive Threat Detection & Automated Response</a> |
+| Log Management & Threat Monitoring                | <a href="https://github.com/Venkatadri-Ch/IDS-SIEM-Integration-for-Intrusion-Detection">IDS (Snort) & SIEM (Splunk) Integration</a>                                 |
+| **Log Analysis & Security Event Monitoring**      | <a href="https://github.com/Venkatadri-Ch/Active-Directory-security-with-SIEM-SOAR">Active Directory Security with SIEM & SOAR</a>                                  |
+| **Security Automation with Shuffle SOAR**         | <a href="https://github.com/Venkatadri-Ch/Active-Directory-security-with-SIEM-SOAR">Active Directory Security with SIEM & SOAR</a>                                  |
+| **Network Traffic Monitoring & Attack Detection** | <a href="https://github.com/Venkatadri-Ch/IDS-SIEM-Integration-for-Intrusion-Detection">IDS (Snort) & SIEM (Splunk) Integration</a>                                 |
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
 
