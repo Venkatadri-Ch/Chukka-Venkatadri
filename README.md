@@ -1,9 +1,9 @@
 # 👋Hello, I'm Venkatadri
-<a href="https://www.linkedin.com/in/chukka-venkatadri-419803330/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-<a href="https://tryhackme.com/p/Venkatadri">
+<a href="https://www.linkedin.com/in/chukka-venkatadri-419803330/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="https://tryhackme.com/p/Venkatadri">
    <img src="https://img.shields.io/badge/-TryHackMe-FF0000?&style=for-the-badge&logo=tryhackme&logoColor=white" />
 </a>
+
+
 
 
 Recent Postgraduate in Cyber Security (MSc) and undergraduated in forensic science(BSc) with practical experience in a wide range of security tools and technologies. Skilled in threat detection,threat intelligence,SIEM,EDR,Log analysis,digital forensics,python,vulnerability assessment. Strong understanding of cybersecurity principles, network security, cyber law and penetration testing. Eager to apply technical skills and analytical thinking in a professional cybersecurity environment.
