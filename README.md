@@ -105,20 +105,27 @@ To secure a challenging position in the field of Cyber Security where I can appl
 
 ## Projects🚀
 <div>
-1. <a href="https://github.com/Venkatadri-Ch/Active-Directory-security-with-SIEM-SOAR">Active Directory Security with SIEM SOAR</a>
+1. <a href="https://github.com/Venkatadri-Ch/Active-Directory-security-with-SIEM-SOAR">Active Directory Security with SIEM SOAR</a> : Developed a security solution integrating Splunk (SIEM) and Shuffle (SOAR) to 
+monitor Active Directory, detect unauthorized RDP logins, automate compromised user account disabling, 
+and send real-time alerts via Telegram and Email. 
 
 </div>
 
 <div>
-2. <a href="https://github.com/Venkatadri-Ch/IDS-SIEM-Integration-for-Intrusion-Detection">Integrating IDS (Snort) with real-time SIEM solution (Splunk)</a>
+2. <a href="https://github.com/Venkatadri-Ch/IDS-SIEM-Integration-for-Intrusion-Detection">Integrating IDS (Snort) with real-time SIEM solution (Splunk)</a> : Implemented real-time security monitoring by integrating Snort IDS with Splunk 
+Enterprise via Universal Forwarder, enabling centralized log collection, custom alert, and interactive 
+dashboard for effective intrusion detection and network threat analysis. 
+    
 </div>
 
 <div>
-3. <a href="https://github.com/Venkatadri-Ch/Proactive-Threat-Detection-and-Automated-Response-Using-SOAR-and-EDR">Proactive Threat Detection and Automated Response Using SOAR and EDR</a>
+3. <a href="https://github.com/Venkatadri-Ch/Proactive-Threat-Detection-and-Automated-Response-Using-SOAR-and-EDR">Proactive Threat Detection and Automated Response Using SOAR and EDR</a> : Developed an automated threat 
+detection and response system by integrating Tines (SOAR) with Lima Charlie (EDR), enabling real-time 
+alerts, Slack/Email notifications, and user-driven machine isolation for rapid incident response. 
 
 </div>
 
 <div>
-4. <a href="https://github.com/Venkatadri-Ch/Multi-Source-Log-Analysis-with-Splunk-Enterprise-SIEM">Multi-Source Log Analysis with Splunk Enterprise SIEM</a>
+4. <a href="https://github.com/Venkatadri-Ch/Multi-Source-Log-Analysis-with-Splunk-Enterprise-SIEM">Multi-Source Log Analysis with Splunk Enterprise SIEM</a> : This project uses Splunk Enterprise to analyze logs from different sources like DNS, HTTP, SSH, FTP, SMTP, and Tunnel datasets from SecRepo. The main goal was to find patterns, detect unusual activity, and visualize useful security insights.
 
 </div>
