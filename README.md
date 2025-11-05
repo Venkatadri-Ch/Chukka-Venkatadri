@@ -1,7 +1,11 @@
 # 👋Hello, I'm Venkatadri
 <a href="https://www.linkedin.com/in/chukka-venkatadri-419803330/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="https://tryhackme.com/p/Venkatadri">
    <img src="https://img.shields.io/badge/-TryHackMe-FF0000?&style=for-the-badge&logo=tryhackme&logoColor=white" />
+</a>  <a href="mailto:chukkavenkatadri143@gmail.com">
+   <img src="https://img.shields.io/badge/-Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
+
+
 
 
 
