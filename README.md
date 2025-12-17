@@ -13,7 +13,7 @@
 
 
 
-Postgraduate in Cyber Security (MSc) and undergraduated in forensic science(BSc) with practical experience in a wide range of security tools and technologies. Skilled in threat detection,threat intelligence,SIEM,EDR,Log analysis,digital forensics,python,vulnerability assessment. Strong understanding of cybersecurity principles, network security, cyber law and penetration testing. Eager to apply technical skills and analytical thinking in a professional cybersecurity environment.
+Postgraduate in Cyber Security (MSc) and undergraduated in forensic science(BSc) with practical experience in a wide range of security tools and technologies. Skilled in threat detection,threat intelligence,SIEM,SOAR,EDR,Log analysis,digital forensics,python,vulnerability assessment. Strong understanding of cybersecurity principles, network security, cyber law and penetration testing. Eager to apply technical skills and analytical thinking in a professional cybersecurity environment.
 
 
 ## Objective 🚀
