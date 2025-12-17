@@ -45,6 +45,8 @@ To secure a challenging position in the field of Cyber Security where I can appl
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
     <img src="https://img.shields.io/badge/-Snort-EF3B2D?&style=for-the-badge&logo=Snort&logoColor=white" />
+    <img src="https://img.shields.io/badge/-tcpdump-000000?&style=for-the-badge&logo=linux&logoColor=white" />
+
 
 </div>
 
@@ -53,13 +55,18 @@ To secure a challenging position in the field of Cyber Security where I can appl
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-007BFF?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LimaCharlie-1E90FF?&style=for-the-badge&logo=security&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysmon-0078D7?&style=for-the-badge&logo=windows&logoColor=white" />
+
+
+
 
 </div>
 
 ### SIEM📊
 <div>
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-<img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=elastic&logoColor=white" />
+<img src="https://img.shields.io/badge/-ELK-005571?&style=for-the-badge&logo=elastic&logoColor=white" />
 
 </div>
     
@@ -84,6 +91,9 @@ To secure a challenging position in the field of Cyber Security where I can appl
 <img src="https://img.shields.io/badge/-Shodan-FF0000?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Maltego-000000?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-TheHarvester-FF0000?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Sherlock-4B0082?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Twint-1DA1F2?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Recon--ng-2E8B57?&style=for-the-badge&logoColor=white" />
    
 </div>
 
@@ -93,12 +103,15 @@ To secure a challenging position in the field of Cyber Security where I can appl
 <img src="https://img.shields.io/badge/-Nikto-6A0DAD?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Netcat-008080?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Dirb-28A745?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-DirBuster-2F4F4F?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Gobuster-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Burp%20Suite-FF6600?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Metasploit-1A1A1A?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-John%20the%20Ripper-8B0000?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Hydra-28A745?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Hashcat-1A1A1A?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-SlowHTTPTest-FF4500?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-hping3-000000?&style=for-the-badge&logoColor=white" />
 
 </div>
 
