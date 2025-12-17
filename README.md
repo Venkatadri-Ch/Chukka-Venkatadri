@@ -26,12 +26,15 @@ To secure a challenging position in the field of Cyber Security where I can appl
 | 🔐Active Directory Security & SIEM Integration      | <a href="https://github.com/Venkatadri-Ch/Active-Directory-security-with-SIEM-SOAR">Active Directory Security with SIEM & SOAR</a>                                  |
 | 🛡️Intrusion Detection & SIEM Integration            | <a href="https://github.com/Venkatadri-Ch/IDS-SIEM-Integration-for-Intrusion-Detection">IDS (Snort) & SIEM (Splunk) Integration</a>                                 |
 | ⚙️Security Automation & Incident Response           | <a href="https://github.com/Venkatadri-Ch/Proactive-Threat-Detection-and-Automated-Response-Using-SOAR-and-EDR">Proactive Threat Detection & Automated Response</a> |
+| ⚔️ Attack Simulation  | <a href="https://medium.com/@chukkavenkatadri143/simulating-dos-attacks-safely-a-step-by-step-guide-to-icmp-protocol-and-application-layer-6c239a59b7be">Simulating DoS Attacks (ICMP & Application Layer)</a> |
+| 🪟 Endpoint Monitoring (Sysmon & ELK) | <a href="https://medium.com/@chukkavenkatadri143/windows-activity-monitoring-with-sysmon-and-elk-a-complete-step-by-step-guide-7ee0264e3001">Windows Activity Monitoring with Sysmon & ELK Stack</a> |
+| 🕵️‍♂️Log Analysis & Security Event Monitoring      | <a href="https://github.com/Venkatadri-Ch/Multi-Source-Log-Analysis-with-Splunk-Enterprise-SIEM">Multi-Source Log Analysis with Splunk Enterprise SIEM</a>        |
 | 🔧SIEM & SOAR Configuration                         | <a href="https://github.com/Venkatadri-Ch/Active-Directory-security-with-SIEM-SOAR">Active Directory Security with SIEM & SOAR</a>                                  |
 | 🖥️Endpoint Detection & Response (EDR)               | <a href="https://github.com/Venkatadri-Ch/Proactive-Threat-Detection-and-Automated-Response-Using-SOAR-and-EDR">Proactive Threat Detection & Automated Response</a> |
 | 📊Log Management & Threat Monitoring                | <a href="https://github.com/Venkatadri-Ch/IDS-SIEM-Integration-for-Intrusion-Detection">IDS (Snort) & SIEM (Splunk) Integration</a>                                 |
-| 🕵️‍♂️Log Analysis & Security Event Monitoring      | <a href="https://github.com/Venkatadri-Ch/Multi-Source-Log-Analysis-with-Splunk-Enterprise-SIEM">Multi-Source Log Analysis with Splunk Enterprise SIEM</a>        |
 | 📡Security Automation with Shuffle SOAR         | <a href="https://github.com/Venkatadri-Ch/Active-Directory-security-with-SIEM-SOAR">Active Directory Security with SIEM & SOAR</a>                                  |
 | 🌐Network Traffic Monitoring & Attack Detection | <a href="https://github.com/Venkatadri-Ch/IDS-SIEM-Integration-for-Intrusion-Detection">IDS (Snort) & SIEM (Splunk) Integration</a>                                 |
+
 
 
 ## 🛠️ Tools
