@@ -117,6 +117,15 @@ To secure a challenging position in the field of Cyber Security where I can appl
 
 </div>
 
+🖥️ Operating Systems
+<div> 
+   <img src="https://img.shields.io/badge/-Windows-0078D7?&style=for-the-badge&logo=windows&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/-Kali-000000?&style=for-the-badge&logo=kali-linux&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/-ParrotOS-3DDC84?&style=for-the-badge&logo=parrot&logoColor=white" />
+   <img src="https://img.shields.io/badge/-macOS-000000?&style=for-the-badge&logo=apple&logoColor=white" /> 
+</div>
+
 ### Programming Languages🐍⚡
 <div>
 <img src="https://img.shields.io/badge/-Python-008080?&style=for-the-badge&logo=python&logoColor=white" />
