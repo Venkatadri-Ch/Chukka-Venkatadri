@@ -117,7 +117,7 @@ To secure a challenging position in the field of Cyber Security where I can appl
 
 </div>
 
-🖥️ Operating Systems
+### Operating Systems🖥️🖥️
 <div> 
    <img src="https://img.shields.io/badge/-Windows-0078D7?&style=for-the-badge&logo=windows&logoColor=white" /> 
    <img src="https://img.shields.io/badge/-Kali-000000?&style=for-the-badge&logo=kali-linux&logoColor=white" />
