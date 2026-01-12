@@ -162,7 +162,17 @@ and send real-time alerts via Telegram and Email.
 
 <div>
 
-2. <a href="https://github.com/Venkatadri-Ch/IDS-SIEM-Integration-for-Intrusion-Detection">Integrating IDS (Snort) with real-time SIEM solution (Splunk)</a> : Implemented real-time security monitoring by integrating Snort IDS with Splunk 
+2. <a href="https://medium.com/@chukkavenkatadri143/hands-on-network-security-lab-part-1-implementing-firewall-rules-and-ips-with-pfsense-aliases-0408d648ad31">pfSense Lab Series: WAN & LAN Firewall Rules, Geo-Blocking, and Suricata IPS</a> :
+Designed and implemented a virtual network security lab using pfSense in VirtualBox. Configured WAN and LAN firewall rules, aliases, and pfBlockerNG for IP-based and geo-based threat blocking. Deployed Suricata IDS/IPS in inline mode for deep packet inspection and real-time traffic blocking, and validated detection and prevention using controlled test signatures and alert analysis.
+
+</div>
+
+
+</div>
+
+<div>
+
+3. <a href="https://github.com/Venkatadri-Ch/IDS-SIEM-Integration-for-Intrusion-Detection">Integrating IDS (Snort) with real-time SIEM solution (Splunk)</a> : Implemented real-time security monitoring by integrating Snort IDS with Splunk 
 Enterprise via Universal Forwarder, enabling centralized log collection, custom alert, and interactive 
 dashboard for effective intrusion detection and network threat analysis. 
     
@@ -170,7 +180,7 @@ dashboard for effective intrusion detection and network threat analysis.
 
 <div>
 
-3. <a href="https://github.com/Venkatadri-Ch/Proactive-Threat-Detection-and-Automated-Response-Using-SOAR-and-EDR">Proactive Threat Detection and Automated Response Using SOAR and EDR</a> : Developed an automated threat 
+4. <a href="https://github.com/Venkatadri-Ch/Proactive-Threat-Detection-and-Automated-Response-Using-SOAR-and-EDR">Proactive Threat Detection and Automated Response Using SOAR and EDR</a> : Developed an automated threat 
 detection and response system by integrating Tines (SOAR) with Lima Charlie (EDR), enabling real-time 
 alerts, Slack/Email notifications, and user-driven machine isolation for rapid incident response. 
 
@@ -178,6 +188,6 @@ alerts, Slack/Email notifications, and user-driven machine isolation for rapid i
 
 <div>
 
-4. <a href="https://github.com/Venkatadri-Ch/Multi-Source-Log-Analysis-with-Splunk-Enterprise-SIEM">Multi-Source Log Analysis with Splunk Enterprise SIEM</a> : This project uses Splunk Enterprise to analyze logs from different sources like DNS, HTTP, SSH, FTP, SMTP, and Tunnel datasets from SecRepo. The main goal was to find patterns, detect unusual activity, and visualize useful security insights.
+5. <a href="https://github.com/Venkatadri-Ch/Multi-Source-Log-Analysis-with-Splunk-Enterprise-SIEM">Multi-Source Log Analysis with Splunk Enterprise SIEM</a> : This project uses Splunk Enterprise to analyze logs from different sources like DNS, HTTP, SSH, FTP, SMTP, and Tunnel datasets from SecRepo. The main goal was to find patterns, detect unusual activity, and visualize useful security insights.
 
 </div>
