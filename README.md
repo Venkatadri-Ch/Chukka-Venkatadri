@@ -27,12 +27,17 @@ To secure a challenging position in the field of Cyber Security where I can appl
 | ⚙️Security Automation & Incident Response           | <a href="https://github.com/Venkatadri-Ch/Proactive-Threat-Detection-and-Automated-Response-Using-SOAR-and-EDR">Proactive Threat Detection & Automated Response</a> |
 | ⚔️ Attack Simulation  | <a href="https://medium.com/@chukkavenkatadri143/simulating-dos-attacks-safely-a-step-by-step-guide-to-icmp-protocol-and-application-layer-6c239a59b7be">Simulating DoS Attacks (ICMP & Application Layer)</a> |
 | 🪟 Endpoint Monitoring (Sysmon & ELK) | <a href="https://medium.com/@chukkavenkatadri143/windows-activity-monitoring-with-sysmon-and-elk-a-complete-step-by-step-guide-7ee0264e3001">Windows Activity Monitoring with Sysmon & ELK Stack</a> |
+| 🧱 Firewall Configuration (WAN & LAN Rules) | <a href="https://medium.com/@chukkavenkatadri143/pfsense-lab-series-implementing-wan-lan-firewall-rules-geo-blocking-and-suricata-ips-7230e3767975">pfSense WAN & LAN Firewall Rules Lab</a> |
+| 🚨 Intrusion Prevention System (IPS) on Firewall | <a href="https://medium.com/@chukkavenkatadri143/pfsense-lab-series-implementing-wan-lan-firewall-rules-geo-blocking-and-suricata-ips-5fffe34edace">Suricata IPS (Inline Mode) on pfSense Firewall</a> |
+| 🌍 IP & Geo-Based Traffic Blocking | <a href="https://medium.com/@chukkavenkatadri143/pfsense-lab-series-implementing-wan-lan-firewall-rules-geo-blocking-and-suricata-ips-7230e3767975">pfSense Aliases & pfBlockerNG Geo-Blocking</a> |
 | 🕵️‍♂️Log Analysis & Security Event Monitoring      | <a href="https://github.com/Venkatadri-Ch/Multi-Source-Log-Analysis-with-Splunk-Enterprise-SIEM">Multi-Source Log Analysis with Splunk Enterprise SIEM</a>        |
 | 🔧SIEM & SOAR Configuration                         | <a href="https://github.com/Venkatadri-Ch/Active-Directory-security-with-SIEM-SOAR">Active Directory Security with SIEM & SOAR</a>                                  |
 | 🖥️Endpoint Detection & Response (EDR)               | <a href="https://github.com/Venkatadri-Ch/Proactive-Threat-Detection-and-Automated-Response-Using-SOAR-and-EDR">Proactive Threat Detection & Automated Response</a> |
 | 📊Log Management & Threat Monitoring                | <a href="https://github.com/Venkatadri-Ch/IDS-SIEM-Integration-for-Intrusion-Detection">IDS (Snort) & SIEM (Splunk) Integration</a>                                 |
 | 📡Security Automation with Shuffle SOAR         | <a href="https://github.com/Venkatadri-Ch/Active-Directory-security-with-SIEM-SOAR">Active Directory Security with SIEM & SOAR</a>                                  |
 | 🌐Network Traffic Monitoring & Attack Detection | <a href="https://github.com/Venkatadri-Ch/IDS-SIEM-Integration-for-Intrusion-Detection">IDS (Snort) & SIEM (Splunk) Integration</a>                                 |
+| 🪟 Endpoint Attack Detection (Sysmon) | <a href="https://medium.com/@chukkavenkatadri143/i-hacked-my-own-windows-and-analyzed-the-attack-with-sysmon-23827bba0e81">Windows Endpoint Compromise Analysis with Sysmon</a> |
+
 
 
 
@@ -40,7 +45,8 @@ To secure a challenging position in the field of Cyber Security where I can appl
 
 ### Network 🌐
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+   <img src="https://img.shields.io/badge/-pfSense-212121?&style=for-the-badge&logo=netgate&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
     <img src="https://img.shields.io/badge/-Snort-EF3B2D?&style=for-the-badge&logo=Snort&logoColor=white" />
